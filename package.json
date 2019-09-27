@@ -1,0 +1,19 @@
+{
+  "name": "my-npm-module",
+  "version": "1.0.0",
+  "description": "asdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stories2/My-NPM-Module.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stories2/My-NPM-Module/issues"
+  },
+  "homepage": "https://github.com/stories2/My-NPM-Module#readme"
+}
